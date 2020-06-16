@@ -1,0 +1,4 @@
+#Sun Jun 14 14:37:07 ICT 2020
+base.0=E\:\\Lost Partition 2 (NTFS)\\KULIAH\\SEMESTER 4\\P. MOBILE\\Praktikum\\ImpossibleMaze\\dFTemplate\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

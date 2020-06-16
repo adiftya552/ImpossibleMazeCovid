@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ImpossibleMaze.iml" filepath="$PROJECT_DIR$/ImpossibleMaze.iml" group="ImpossibleMaze" />
+      <module fileurl="file://$PROJECT_DIR$/dFTemplate/dFTemplate.iml" filepath="$PROJECT_DIR$/dFTemplate/dFTemplate.iml" group="ImpossibleMaze/dFTemplate" />
+      <module fileurl="file://$PROJECT_DIR$/droidfoot/droidfoot.iml" filepath="$PROJECT_DIR$/droidfoot/droidfoot.iml" group="ImpossibleMaze/droidfoot" />
+    </modules>
+  </component>
+</project>
