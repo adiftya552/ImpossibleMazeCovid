@@ -34,7 +34,7 @@ public class MyWorld extends World
     public void act()
     {
         time++;
-        if (time % 500 == 0)
+        if (time % 2500 == 0)
         {
             addObject(new Virus(), Greenfoot.getRandomNumber(750), Greenfoot.getRandomNumber(522));
         }

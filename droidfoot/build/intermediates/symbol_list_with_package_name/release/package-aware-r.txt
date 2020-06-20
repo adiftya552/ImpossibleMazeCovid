@@ -58,6 +58,7 @@ dimen subtitle_outline_width
 dimen subtitle_shadow_offset
 dimen subtitle_shadow_radius
 drawable droidfoot_launcher
+drawable ic_icon_background
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -143,6 +144,10 @@ layout notification_template_part_time
 menu menu_droidfoot
 menu menu_help
 menu menu_settings
+mipmap ic_icon
+mipmap ic_icon_foreground
+mipmap ic_icon_round
+mipmap icon_launcher
 raw help
 string app_name
 string help

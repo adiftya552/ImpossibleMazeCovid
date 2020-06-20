@@ -40,7 +40,7 @@ ADDED from E:\Lost Partition 2 (NTFS)\KULIAH\SEMESTER 4\P. MOBILE\Praktikum\Impo
 	android:label
 		ADDED from E:\Lost Partition 2 (NTFS)\KULIAH\SEMESTER 4\P. MOBILE\Praktikum\ImpossibleMaze\droidfoot\src\main\AndroidManifest.xml:12:9-41
 	android:icon
-		ADDED from E:\Lost Partition 2 (NTFS)\KULIAH\SEMESTER 4\P. MOBILE\Praktikum\ImpossibleMaze\droidfoot\src\main\AndroidManifest.xml:11:9-52
+		ADDED from E:\Lost Partition 2 (NTFS)\KULIAH\SEMESTER 4\P. MOBILE\Praktikum\ImpossibleMaze\droidfoot\src\main\AndroidManifest.xml:11:9-45
 	android:allowBackup
 		ADDED from E:\Lost Partition 2 (NTFS)\KULIAH\SEMESTER 4\P. MOBILE\Praktikum\ImpossibleMaze\droidfoot\src\main\AndroidManifest.xml:10:9-35
 	android:theme

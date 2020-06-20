@@ -5,6 +5,7 @@ array orientationValues
 dimen activity_horizontal_margin
 dimen activity_vertical_margin
 drawable droidfoot_launcher
+drawable ic_icon_background
 drawable reset
 drawable speed
 drawable start
@@ -21,6 +22,10 @@ layout activity_help
 menu menu_droidfoot
 menu menu_help
 menu menu_settings
+mipmap ic_icon
+mipmap ic_icon_foreground
+mipmap ic_icon_round
+mipmap icon_launcher
 raw help
 string app_name
 string help
